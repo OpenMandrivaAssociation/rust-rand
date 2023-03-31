@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.8.3
-Release:        2
+Release:        3
 Summary:        Random number generators and other randomness functionality
 
 # Upstream license specification: MIT OR Apache-2.0
